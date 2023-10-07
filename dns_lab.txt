@@ -1,0 +1,2 @@
+terra.com.br
+*.terra.com.br
